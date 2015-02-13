@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/edureka/Desktop/lib/ant-contrib-1.0b3.jar"/>
+	<classpathentry kind="lib" path="/home/edureka/Desktop/lib/asm-3.2.jar"/>
+	<classpathentry kind="lib" path="/home/edureka/Desktop/lib/aspectjrt-1.6.5.jar"/>
+	<classpathentry kind="lib" path="/home/edureka/Desktop/lib/aspectjtools-1.6.5.jar"/>
+	<classpathentry kind="lib" path="/home/edureka/Desktop/lib/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="/home/edureka/Desktop/lib/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="/home/edureka/Desktop/lib/commons-daemon-1.0.1.jar"/>
+	<classpathentry kind="lib" path="/home/edureka/Desktop/lib/commons-el-1.0.jar"/>
+	<classpathentry kind="lib" path="/home/edureka/Desktop/lib/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="/home/edureka/Desktop/lib/commons-io-2.1.jar"/>
+	<classpathentry kind="lib" path="/home/edureka/Desktop/lib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="/home/edureka/Desktop/lib/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="/home/edureka/Desktop/lib/commons-logging-api-1.0.4.jar"/>
+	<classpathentry kind="lib" path="/home/edureka/Desktop/lib/commons-net-3.1.jar"/>
+	<classpathentry kind="lib" path="/home/edureka/Desktop/lib/core-3.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/edureka/Desktop/lib/guava-r09-jarjar.jar"/>
+	<classpathentry kind="lib" path="/home/edureka/Desktop/lib/hadoop-core-0.20.2-cdh3u5.jar"/>
+	<classpathentry kind="lib" path="/home/edureka/Desktop/lib/hadoop-fairscheduler-0.20.2-cdh3u5.jar"/>
+	<classpathentry kind="lib" path="/home/edureka/Desktop/lib/hbase-0.90.6-cdh3u6.jar"/>
+	<classpathentry kind="lib" path="/home/edureka/Desktop/lib/jets3t-0.6.1.jar"/>
+	<classpathentry kind="lib" path="/home/edureka/Desktop/lib/jsch-0.1.42.jar"/>
+	<classpathentry kind="lib" path="/home/edureka/Desktop/lib/junit-4.5.jar"/>
+	<classpathentry kind="lib" path="/home/edureka/Desktop/lib/kfs-0.2.2.jar"/>
+	<classpathentry kind="lib" path="/home/edureka/Desktop/lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="/home/edureka/Desktop/lib/mockito-all-1.8.2.jar"/>
+	<classpathentry kind="lib" path="/home/edureka/Desktop/lib/oro-2.0.8.jar"/>
+	<classpathentry kind="lib" path="/home/edureka/Desktop/lib/slf4j-api-1.4.3.jar"/>
+	<classpathentry kind="lib" path="/home/edureka/Desktop/lib/slf4j-log4j12-1.4.3.jar"/>
+	<classpathentry kind="lib" path="/home/edureka/Desktop/lib/xmlenc-0.52.jar"/>
+	<classpathentry kind="lib" path="/home/edureka/Desktop/lib/zookeeper-3.3.5-cdh3u6.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
