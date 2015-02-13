@@ -1,10 +1,16 @@
 --Demo
 --MR program
+
+Go to Google dirve of Karan -- Class 10.zip. This has code and dataset.
+
+Create maven project and copy jars inside resources folder of maven. Size is huge so I removed it for execution.
+Generate jar of the project and execute below commands.
+
 hadoop fs -mkdir /module10/project/input
 
-hadoop fs -put social-odp-2k9_annotations.xml /module10/project/input
+hadoop fs -put /home/edureka/Downloads/social-odp-2k9_annotations.xml /module10/project/input
 
-hadoop jar review.jar /module10/project/input /module10/project/out/
+hadoop jar /home/edureka/Downloads/review-live.jar com.edureka.review.ImportReview /module10/project/input /module10/project/out/
 
 --2. Pig program
 
