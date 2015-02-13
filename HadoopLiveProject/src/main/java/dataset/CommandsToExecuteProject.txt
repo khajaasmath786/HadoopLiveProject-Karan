@@ -14,8 +14,7 @@ hadoop jar /home/edureka/Downloads/review-live.jar com.edureka.review.ImportRevi
 
 --2. Pig program
 
-
-pig review.pig
+grunt>exec review.pig
 
 --3 Hive Program
 --hive
